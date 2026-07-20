@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if title %}{{ title }} · {{ metadata.title }}{% else %}{{ metadata.title }} — {{ metadata.tagline }}{% endif %}</title>
   <meta name="description" content="{{ description or metadata.description }}">
-  <link rel="stylesheet" href="/assets/css/site.css">
-  <link rel="alternate" type="application/rss+xml" href="/feed.xml" title="{{ metadata.title }}">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | url }}">
+  <link rel="alternate" type="application/rss+xml" href="{{ '/feed.xml' | url }}" title="{{ metadata.title }}">
 </head>
 <body>
   {% include "partials/nav.njk" %}
@@ -14,6 +14,6 @@
     {{ content | safe }}
   </main>
   {% include "partials/footer.njk" %}
-  <script src="/assets/js/reveal.js" defer></script>
+  <script src="{{ '/assets/js/reveal.js' | url }}" defer></script>
 </body>
 </html>

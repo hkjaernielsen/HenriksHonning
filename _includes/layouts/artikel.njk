@@ -34,10 +34,10 @@ layout: layouts/base.njk
       {%- for post in poster %}
         {%- if post.url == page.url %}
           {%- if loop.index0 > 0 %}
-          <a class="prev" href="{{ (poster[loop.index0 - 1]).url }}">← {{ (poster[loop.index0 - 1]).data.title }}</a>
+          <a class="prev" href="{{ (poster[loop.index0 - 1]).url | url }}">← {{ (poster[loop.index0 - 1]).data.title }}</a>
           {%- endif %}
           {%- if not loop.last %}
-          <a class="next" href="{{ (poster[loop.index0 + 1]).url }}">{{ (poster[loop.index0 + 1]).data.title }} →</a>
+          <a class="next" href="{{ (poster[loop.index0 + 1]).url | url }}">{{ (poster[loop.index0 + 1]).data.title }} →</a>
           {%- endif %}
         {%- endif %}
       {%- endfor %}
