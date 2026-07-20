@@ -1,0 +1,27 @@
+<footer id="om-footer">
+  <div class="footer-inner">
+    <div>
+      <svg class="seal" viewBox="0 0 88 88" aria-hidden="true">
+        <path d="M44 3 79.5 23.5v41L44 85 8.5 64.5v-41Z" fill="#d9921e"/>
+        <path d="M44 10 73.4 27v34L44 78 14.6 61V27Z" fill="none" stroke="#241f14" stroke-width="1.2" opacity=".5"/>
+        <text x="44" y="56" text-anchor="middle" font-family="Fraunces,Georgia,serif" font-size="34" font-style="italic" font-weight="600" fill="#241f14">H</text>
+      </svg>
+      <h5>{{ metadata.title }}</h5>
+      <p>Hobbybiavl på en skovejendom ved Kjellerup — og en hjemmeside om det, bierne kan lære os om naturen.</p>
+    </div>
+    <div id="kontakt">
+      <span class="label">Kontakt</span>
+      <p>Vinderslevholmvej 57<br>8620 Kjellerup<br>
+        <a href="mailto:{{ metadata.author.email }}">{{ metadata.author.email }}</a></p>
+    </div>
+    <div>
+      <span class="label">Læs videre</span>
+      <p>Artiklerne bygger på dansk faglitteratur om biavl — bl.a. Danmarks Biavlerforenings materialer. Fuld kildeliste under hver artikel.</p>
+      <p><a href="/feed.xml">RSS-feed</a></p>
+    </div>
+  </div>
+  <div class="footer-base">
+    <span>© {{ metadata.title }}</span>
+    <span>Bygget som statisk side · uden cookies og tracking</span>
+  </div>
+</footer>

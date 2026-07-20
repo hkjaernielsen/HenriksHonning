@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="{{ metadata.language }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if title %}{{ title }} · {{ metadata.title }}{% else %}{{ metadata.title }} — {{ metadata.tagline }}{% endif %}</title>
+  <meta name="description" content="{{ description or metadata.description }}">
+  <link rel="stylesheet" href="/assets/css/site.css">
+  <link rel="alternate" type="application/rss+xml" href="/feed.xml" title="{{ metadata.title }}">
+</head>
+<body>
+  {% include "partials/nav.njk" %}
+  <main>
+    {{ content | safe }}
+  </main>
+  {% include "partials/footer.njk" %}
+  <script src="/assets/js/reveal.js" defer></script>
+</body>
+</html>
