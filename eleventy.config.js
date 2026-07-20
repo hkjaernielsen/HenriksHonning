@@ -1,7 +1,10 @@
+import { HtmlBasePlugin } from "@11ty/eleventy";
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 
 export default function (eleventyConfig) {
+  eleventyConfig.addPlugin(HtmlBasePlugin);
+
   // Læsetid i minutter ud fra ordantal (≈180 ord/min for dansk brødtekst)
   eleventyConfig.addFilter("laesetid", (content) => {
     const tekst = String(content).replace(/<[^>]*>/g, " ");
