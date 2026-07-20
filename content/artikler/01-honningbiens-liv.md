@@ -35,7 +35,7 @@ Først i den sidste tredjedel af sit liv bliver bien **trækbi** og forlader sta
 
 En sommerbi lever kun kort. Fra den bliver voksen, til den dør, går der typisk fem-seks uger. Arbejdet er så intenst, at kroppen simpelthen ikke holder længere.
 
-Helt anderledes er det med de bier, der klækkes sidst på sæsonen. De såkaldte **vinterbier** har et andet stofskifte og en fyldig fedtreserve i kroppen. De trækker ikke, men bruger kræfterne på at holde familien i live gennem den kolde tid, og de kan leve i flere måneder – helt op mod otte-ni. Uden dem ville familien aldrig nå frem til foråret.
+Helt anderledes er det med de bier, der klækkes sidst på sæsonen. De såkaldte **vinterbier** har et andet stofskifte og en fyldig fedtreserve i kroppen. De trækker ikke, men bruger kræfterne på at holde familien i live gennem den kolde tid, og de kan leve i flere måneder – helt hen over vinteren. Uden dem ville familien aldrig nå frem til foråret.
 
 ## Årets rytme
 
