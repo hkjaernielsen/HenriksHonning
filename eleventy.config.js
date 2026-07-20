@@ -11,6 +11,9 @@ export default function (eleventyConfig) {
     return collectionApi.getFilteredByTag("artikler").sort((a, b) => a.date - b.date);
   });
 
+  // Nulpolstret to-cifret nummer (01, 02, …) til artikelindekset
+  eleventyConfig.addFilter("pad2", (n) => String(n).padStart(2, "0"));
+
   eleventyConfig.addPassthroughCopy("assets");
 
   return {

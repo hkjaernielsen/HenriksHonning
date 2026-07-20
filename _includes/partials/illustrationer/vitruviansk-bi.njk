@@ -1,0 +1,84 @@
+<svg class="vitruvian draw reveal in" viewBox="0 0 560 620" aria-label="Anatomisk studie af honningbien">
+  <defs>
+    <pattern id="crosshatch" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(38)">
+      <line x1="0" y1="0" x2="0" y2="7" stroke="#6b5334" stroke-width=".7" opacity=".45"/>
+    </pattern>
+    <pattern id="crosshatch2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(-32)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#6b5334" stroke-width=".6" opacity=".35"/>
+    </pattern>
+    <filter id="rough"><feTurbulence type="fractalNoise" baseFrequency="0.025" numOctaves="2" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="2.2"/></filter>
+  </defs>
+
+  <ellipse class="paper-blob" cx="280" cy="300" rx="262" ry="282"/>
+
+  <g filter="url(#rough)">
+    <!-- konstruktionslinjer: cirkel + kvadrat -->
+    <circle class="sketch-faint" cx="280" cy="290" r="205" stroke-width="1.1"/>
+    <rect class="sketch-faint" x="98" y="108" width="364" height="364" stroke-width="1.1"/>
+    <line class="sketch-faint" x1="280" y1="60" x2="280" y2="520" stroke-width=".8" stroke-dasharray="2 7"/>
+    <line class="sketch-faint" x1="50" y1="290" x2="510" y2="290" stroke-width=".8" stroke-dasharray="2 7"/>
+    <!-- målestreger -->
+    <path class="sketch-faint" d="M98 486 v10 M189 486 v10 M280 486 v10 M371 486 v10 M462 486 v10 M98 491 h364" stroke-width=".9"/>
+
+    <!-- vinger, spredte -->
+    <g class="sketch" stroke-width="1.6">
+      <path class="animate-draw" d="M262 250 C 200 200, 120 170, 82 178 C 60 184, 62 210, 88 228 C 130 258, 210 268, 258 264" fill="url(#crosshatch2)"/>
+      <path class="animate-draw" d="M298 250 C 360 200, 440 170, 478 178 C 500 184, 498 210, 472 228 C 430 258, 350 268, 302 264" fill="url(#crosshatch2)"/>
+      <path class="animate-draw" d="M264 268 C 220 258, 160 262, 132 276 C 116 286, 124 302, 148 306 C 190 312, 240 296, 262 284" fill="none"/>
+      <path class="animate-draw" d="M296 268 C 340 258, 400 262, 428 276 C 444 286, 436 302, 412 306 C 370 312, 320 296, 298 284" fill="none"/>
+      <!-- vingeribber -->
+      <path d="M258 258 C 210 236, 150 212, 100 196 M256 262 C 210 250, 150 240, 100 214 M260 254 C 230 240, 190 222, 150 196" stroke-width=".8" opacity=".7"/>
+      <path d="M302 258 C 350 236, 410 212, 460 196 M304 262 C 350 250, 410 240, 460 214 M300 254 C 330 240, 370 222, 410 196" stroke-width=".8" opacity=".7"/>
+    </g>
+
+    <!-- krop: hoved, bryst, bagkrop -->
+    <g class="sketch" stroke-width="2">
+      <!-- følehorn -->
+      <path class="animate-draw" d="M270 148 C 258 128, 240 116, 222 112 M290 148 C 302 128, 320 116, 338 112" stroke-width="1.6"/>
+      <!-- hoved -->
+      <path class="animate-draw" d="M280 138 C 300 138, 312 152, 310 168 C 308 184, 296 192, 280 192 C 264 192, 252 184, 250 168 C 248 152, 260 138, 280 138 Z"/>
+      <!-- facetøjne (skraveret) -->
+      <path d="M256 152 C 250 160, 250 174, 257 182 C 264 187, 268 184, 266 176 C 264 166, 262 158, 256 152 Z" fill="url(#crosshatch)" stroke-width="1.2"/>
+      <path d="M304 152 C 310 160, 310 174, 303 182 C 296 187, 292 184, 294 176 C 296 166, 298 158, 304 152 Z" fill="url(#crosshatch)" stroke-width="1.2"/>
+      <!-- bryst, lodden (korte strøg) -->
+      <path class="animate-draw" d="M280 192 C 306 192, 322 210, 322 234 C 322 258, 304 272, 280 272 C 256 272, 238 258, 238 234 C 238 210, 254 192, 280 192 Z"/>
+      <g stroke-width=".9" opacity=".65">
+        <path d="M247 214 l-8 -5 M252 204 l-7 -6 M262 197 l-5 -8 M274 193 l-3 -9 M287 193 l3 -9 M299 197 l5 -8 M309 204 l7 -6 M314 214 l8 -5"/>
+      </g>
+      <!-- bagkrop med segmenter -->
+      <path class="animate-draw" d="M280 272 C 312 272, 334 296, 334 330 C 334 376, 312 428, 280 452 C 248 428, 226 376, 226 330 C 226 296, 248 272, 280 272 Z"/>
+      <path d="M234 306 C 260 318, 300 318, 326 306" stroke-width="1.4"/>
+      <path d="M230 340 C 258 354, 302 354, 330 340" stroke-width="1.4"/>
+      <path d="M234 374 C 260 388, 300 388, 326 374" stroke-width="1.4"/>
+      <path d="M244 406 C 264 418, 296 418, 316 406" stroke-width="1.4"/>
+      <!-- skravering på hvert andet segment -->
+      <path d="M232 342 C 258 356, 302 356, 328 342 L 326 372 C 300 386, 260 386, 234 372 Z" fill="url(#crosshatch)" stroke="none"/>
+      <path d="M245 408 C 265 420, 295 420, 315 408 L 300 438 C 288 448, 272 448, 260 438 Z" fill="url(#crosshatch)" stroke="none"/>
+      <!-- ben -->
+      <path class="animate-draw" d="M252 226 C 222 232, 200 250, 190 274 M308 226 C 338 232, 360 250, 370 274" stroke-width="1.5"/>
+      <path class="animate-draw" d="M248 248 C 214 262, 196 288, 192 316 M312 248 C 346 262, 364 288, 368 316" stroke-width="1.5"/>
+      <path class="animate-draw" d="M256 266 C 228 292, 216 328, 220 362 M304 266 C 332 292, 344 328, 340 362" stroke-width="1.5"/>
+    </g>
+
+    <!-- annotationer med henvisningslinjer -->
+    <g>
+      <path class="sketch-faint" d="M338 112 C 366 104, 390 102, 414 106" stroke-width=".8" stroke-dasharray="1 5"/>
+      <text class="annot" x="418" y="108" font-size="15">følehorn</text>
+      <path class="sketch-faint" d="M310 168 C 350 162, 380 158, 408 158" stroke-width=".8" stroke-dasharray="1 5"/>
+      <text class="annot" x="412" y="162" font-size="15">facetøje</text>
+      <path class="sketch-faint" d="M472 228 C 488 244, 496 258, 500 274" stroke-width=".8" stroke-dasharray="1 5"/>
+      <text class="annot" x="452" y="296" font-size="15">forvinge</text>
+      <path class="sketch-faint" d="M334 336 C 372 342, 396 348, 418 356" stroke-width=".8" stroke-dasharray="1 5"/>
+      <text class="annot" x="422" y="362" font-size="15">honningmave</text>
+      <path class="sketch-faint" d="M226 336 C 186 342, 160 348, 138 356" stroke-width=".8" stroke-dasharray="1 5"/>
+      <text class="annot" x="52" y="362" font-size="15">vokskirtler</text>
+      <path class="sketch-faint" d="M220 362 C 190 380, 172 394, 158 410" stroke-width=".8" stroke-dasharray="1 5"/>
+      <text class="annot" x="66" y="428" font-size="15">pollenkurv</text>
+    </g>
+
+    <!-- titelkartouche -->
+    <text class="annot" x="280" y="548" font-size="17" text-anchor="middle" letter-spacing=".08em">Studie af honningbien — apis mellifera</text>
+    <path class="sketch-faint" d="M170 560 h220" stroke-width=".8"/>
+    <text class="annot" x="280" y="582" font-size="12.5" text-anchor="middle" opacity=".75">efter naturen, med noter om vinge, voks og honningmave</text>
+  </g>
+</svg>

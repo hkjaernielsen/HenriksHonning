@@ -1,4 +1,63 @@
 ---
 layout: layouts/base.njk
 ---
-<h1>Forside kommer i Task 7</h1>
+<header>
+  <div class="hero-inner">
+    <div>
+      <div class="hero-kicker reveal in">
+        <span class="rule"></span>
+        <span class="label">Hobbybiavl · Kjellerup · siden {{ metadata.since }}</span>
+      </div>
+      <h1 class="reveal in">
+        <span class="thin">Bierne &amp;</span><br>
+        den danske<br>
+        <em>natur<span class="underline"></span></em>
+      </h1>
+      <p class="hero-sub reveal in">
+        Læseværdige artikler om honningbiens forunderlige liv, biodiversiteten i det
+        danske landskab og hverdagen i en lille bigård på en skovejendom — skrevet
+        med afsæt i dansk faglitteratur om biavl.
+      </p>
+      <div class="hero-cta reveal in">
+        <a class="btn-honey" href="#artikler">Læs artiklerne <span aria-hidden="true">↓</span></a>
+        <a class="btn-ghost" href="/om/">Historien bag bigården</a>
+      </div>
+    </div>
+    {% include "partials/illustrationer/vitruviansk-bi.njk" %}
+  </div>
+  <div class="scroll-hint">Rul</div>
+</header>
+
+{% include "partials/statband.njk" %}
+
+<section class="articles" id="artikler">
+  <div class="section-head reveal">
+    <h2>Artikler <em>fra bigården</em></h2>
+    <span class="label">{{ collections.artiklerSorteret | length }} artikler · opdateres løbende</span>
+  </div>
+  <div class="articles-grid">
+    <div>
+      {%- for artikel in collections.artiklerSorteret %}
+      <a class="article-row reveal" href="{{ artikel.url }}">
+        <span class="idx"><b>{{ loop.index | pad2 }}</b>{{ artikel.data.category }}</span>
+        <span>
+          <h3>{{ artikel.data.title }}</h3>
+          <span class="excerpt">{{ artikel.data.description }}</span>
+          <span class="meta">{{ artikel.templateContent | laesetid }} min. læsning</span>
+        </span>
+        <span class="arrow">→</span>
+      </a>
+      {%- endfor %}
+    </div>
+    {% include "partials/illustrationer/kloever-studie.njk" %}
+  </div>
+</section>
+
+{% include "partials/aarshjul.njk" %}
+
+<section class="quote">
+  {% include "partials/illustrationer/celle-geometri.njk" %}
+  <span class="mark reveal">”</span>
+  <blockquote class="reveal">Uden bestøvere ville hver <b>tredje mundfuld</b> mad se helt anderledes ud.</blockquote>
+  <cite class="label reveal">— derfor skriver jeg om bierne</cite>
+</section>
