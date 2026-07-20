@@ -1,0 +1,16 @@
+{
+  "name": "henrikshonning",
+  "version": "1.0.0",
+  "description": "Henriks Honning — statisk hjemmeside om hobbybiavl, honningbier og biodiversitet",
+  "type": "module",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-img": "^6.0.0",
+    "@11ty/eleventy-plugin-rss": "^2.0.2"
+  }
+}
