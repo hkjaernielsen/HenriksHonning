@@ -1,0 +1,34 @@
+---
+layout: layouts/base.njk
+title: Bigården i billeder
+description: Fotografier fra bigården, haven og skoven i Hinge — året rundt.
+image: /assets/img/galleri/stade-aerenpris.jpg
+permalink: /billeder/
+---
+<section class="galleri">
+  <div class="galleri-head reveal in">
+    <div class="galleri-kicker"><span class="rule"></span><span class="label">Bigården i billeder · året rundt</span></div>
+    <h1 class="galleri-titel">Året gennem <em>linsen</em></h1>
+    <p class="galleri-intro">Fra de første vintergækker til de sidste efterårsfarver — billeder fra bigården, haven og skoven i Hinge.</p>
+  </div>
+
+  {%- for sektion in galleri %}
+  <div class="galleri-sektion">
+    <div class="galleri-sektion-head reveal">
+      <span class="num">{{ sektion.nummer }} · {{ sektion.periode }}</span>
+      <h2>{{ sektion.titel }}</h2>
+    </div>
+    <p class="galleri-sektion-intro reveal">{{ sektion.intro }}</p>
+    <div class="galleri-grid">
+      {%- for b in sektion.billeder %}
+      <figure class="galleri-figur galleri-{{ b.format }} reveal" style="--span:{{ b.span }}">
+        <a href="/assets/img/galleri/{{ b.fil }}.jpg">
+          <img src="/assets/img/galleri/{{ b.fil }}.jpg" alt="{{ b.alt }}"{% if not (loop.first and sektion.nummer == "01") %} loading="lazy"{% endif %}>
+        </a>
+        <figcaption>{{ b.tekst }}</figcaption>
+      </figure>
+      {%- endfor %}
+    </div>
+  </div>
+  {%- endfor %}
+</section>
