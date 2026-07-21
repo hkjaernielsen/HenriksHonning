@@ -49,8 +49,8 @@ body{
 nav{
   position:fixed;inset:0 0 auto 0;z-index:50;
   display:flex;align-items:center;justify-content:space-between;
-  padding:20px 48px;
-  background:linear-gradient(rgba(246,241,229,.92),rgba(246,241,229,.78) 70%,rgba(246,241,229,0));
+  padding:12px 48px;
+  background:linear-gradient(rgba(246,241,229,.94),rgba(246,241,229,.82) 70%,rgba(246,241,229,0));
   backdrop-filter:blur(6px);
 }
 .brand{display:flex;align-items:center;gap:12px;text-decoration:none;color:var(--ink);}
@@ -236,10 +236,10 @@ footer{
   filter:drop-shadow(0 6px 14px rgba(0,0,0,.35));
 }
 .footer-logo{
-  width:150px;height:auto;display:block;margin-bottom:22px;
+  width:210px;height:auto;display:block;margin-bottom:24px;
   filter:drop-shadow(0 8px 20px rgba(0,0,0,.45));
 }
-.brand-logo{display:block;flex-shrink:0;height:50px;width:auto;}
+.brand-logo{display:block;flex-shrink:0;height:92px;width:auto;}
 footer h5{font-size:24px;font-weight:600;color:var(--paper);margin-bottom:14px;}
 footer p{font-size:14.5px;line-height:1.8;font-weight:300;}
 footer .label{color:var(--honey);margin-bottom:16px;display:block;}
@@ -270,7 +270,9 @@ footer a{color:var(--paper);text-decoration:none;border-bottom:1px solid rgba(21
   .margin-plate{position:static;max-width:340px;margin:0 auto;}
 }
 @media (max-width:900px){
-  nav{padding:16px 22px;} nav .menu{display:none;}
+  nav{padding:10px 22px;} nav .menu{display:none;}
+  .brand-logo{height:66px;}
+  .footer-logo{width:172px;}
   header{padding:130px 22px 80px;}
   .stats-inner{grid-template-columns:1fr;gap:36px;}
   .articles{padding:80px 22px;}
