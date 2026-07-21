@@ -6,7 +6,6 @@ image: /assets/img/aaret-i-bigaarden.jpg
 imageAlt: Bisværm samlet på en gren i haven
 description: Biavl følger årstiderne. Fra forårseftersynet i marts til vinterklyngen i december – følg biavlerens årshjul gennem de fire faser, der tilsammen udgør et helt år i bigården.
 kilder:
-  - "Henriks Honning, blogindlægget 'Højsæson' (henrikshonning.blogspot.com)"
   - "Danmarks Biavlerforening, biavl.dk: årets gang i bigården, varroabekæmpelse og indfodring"
   - "Lærebog i biavl, Danmarks Biavlerforening"
 ---

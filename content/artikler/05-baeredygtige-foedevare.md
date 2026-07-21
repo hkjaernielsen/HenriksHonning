@@ -6,7 +6,6 @@ image: /assets/img/baeredygtig.jpg
 imageAlt: Række af bistader i en lysning i aftenlys
 description: Honning fremhæves ofte som en klimavenlig fødevare – ingen marker, ingen vanding, et lille aftryk. Men holder billedet hele vejen rundt? Et forsøg på et ærligt svar.
 kilder:
-  - "Henriks Honning, blogindlægget 'Verdens mest bæredygtige fødevare?' (henrikshonning.blogspot.com)"
   - "FAO's tal om bestøvning, gengivet af Københavns Universitet (sund.ku.dk)"
   - "Danmarks Biavlerforening, biavl.dk: om indfodring og vinterfoder"
 ---

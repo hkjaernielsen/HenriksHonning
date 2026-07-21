@@ -6,7 +6,6 @@ image: /assets/img/mange-slags-honning.jpg
 imageAlt: Kasse med glas af Henriks Honning sommerhonning
 description: Al honning er ikke ens. Smag, farve og konsistens afhænger af, hvilke blomster bierne har besøgt. Om de danske honningtyper – og hvorfor honning før eller siden bliver fast.
 kilder:
-  - "Henriks Honning, blogindlægget 'Mange slags honning' (henrikshonning.blogspot.com)"
   - "Danmarks Biavlerforening, biavl.dk: om honning og honningtyper"
   - "Den Gode Honning / Sorø Honning: om krystallisering af honning (glukose og fruktose)"
 ---
