@@ -32,3 +32,13 @@ permalink: /billeder/
   </div>
   {%- endfor %}
 </section>
+<dialog id="galleri-lightbox" class="galleri-lightbox" aria-label="Billedfremviser">
+  <button class="lb-luk" aria-label="Luk">×</button>
+  <button class="lb-forrige" aria-label="Forrige billede">←</button>
+  <figure>
+    <img src="" alt="">
+    <figcaption></figcaption>
+  </figure>
+  <button class="lb-naeste" aria-label="Næste billede">→</button>
+</dialog>
+<script src="/assets/js/galleri.js" defer></script>
