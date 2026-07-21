@@ -357,7 +357,8 @@ footer a{color:var(--paper);text-decoration:none;border-bottom:1px solid rgba(21
 }
 
 /* ---------- galleri-lightbox ---------- */
-.galleri-lightbox{border:none;padding:0;background:transparent;max-width:none;max-height:none;}
+.galleri-lightbox{border:none;padding:0;background:transparent;max-width:none;max-height:none;width:100vw;height:100vh;}
+.galleri-lightbox[open]{display:flex;align-items:center;justify-content:center;}
 .galleri-lightbox::backdrop{background:rgba(24,20,12,.88);backdrop-filter:blur(3px);}
 .galleri-lightbox figure{margin:0;}
 .galleri-lightbox img{display:block;max-width:96vw;max-height:88vh;width:auto;height:auto;margin:0 auto;border-radius:6px;}
