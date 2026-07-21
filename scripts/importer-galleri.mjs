@@ -16,7 +16,6 @@ const BILLEDER = {
   "IMG_7117.JPG": "mirabelle-blomster",
   "IMG_3508.JPG": "stade-aerenpris",
   "IMG_0264.JPG": "haven-maj",
-  "IMG_6153.JPG": "skovstade-hoej",
   "2023-07-28-11-37-35-707.PNG": "ejendommen-fra-luften",
   "IMG_6583.JPG": "asters",
   "IMG_6152.JPG": "skovstade-juli",
