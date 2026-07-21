@@ -30,7 +30,7 @@ venlig og fagligt funderet — som den gamle blog, men mere gennemarbejdet.
 
 1. **Forside**
    - Fast topnavigation: logo (hexagon-monogram "H") + menu (Artikler · Året i bigården · Om · Kontakt)
-   - Hero: stor overskrift "Bierne & den danske natur", kicker-linje ("Hobbybiavl · Kjellerup · siden 2016"),
+   - Hero: stor overskrift "Bierne & den danske natur", kicker-linje ("Hobbybiavl · Hinge · siden 2014"),
      manchet og to knapper (Læs artiklerne / Historien bag bigården). Til højre: den vitruvianske bi (se Illustrationer)
    - Mørkegrønt statbånd med tre nøgletal med kildeangivelse
    - Artikelindeks: nummererede rækker (01-07) med kategori, titel, uddrag, læsetid og hover-effekter.
@@ -46,7 +46,7 @@ venlig og fagligt funderet — som den gamle blog, men mere gennemarbejdet.
    - Kildeliste nederst i hver artikel
    - Navigation til forrige/næste artikel
 3. **Om Henriks Honning**
-   - Henriks historie (nybegynder ~2016, skovejendommen ved Kjellerup), foto, kontaktinfo
+   - Henriks historie (nybegynder ~2014, skovejendommen ved Hinge), foto, kontaktinfo
 
 ## Artikelplan (lancering)
 

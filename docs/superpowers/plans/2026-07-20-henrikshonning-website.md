@@ -191,7 +191,7 @@ export default {
   title: "Henriks Honning",
   tagline: "Bierne & den danske natur",
   description:
-    "Læseværdige artikler om honningbier, natur og biodiversitet — fra en lille bigård på en skovejendom ved Kjellerup.",
+    "Artikler om honningbier, natur og biodiversitet — fra en bigård på en skovejendom ved Hinge.",
   language: "da",
   // OPDATERES når endeligt domæne er valgt. Bruges kun til absolutte URL'er i RSS.
   url: "https://henrikkjaernielsen.github.io/HenriksHonning/",
@@ -200,7 +200,7 @@ export default {
     email: "henrikkjaernielsen@hotmail.com",
   },
   address: "Vinderslevholmvej 57, 8620 Kjellerup",
-  since: 2016,
+  since: 2014,
 };
 ```
 
@@ -312,7 +312,7 @@ Create `_includes/partials/footer.njk` (kontaktinfo fra metadata):
         <text x="44" y="56" text-anchor="middle" font-family="Fraunces,Georgia,serif" font-size="34" font-style="italic" font-weight="600" fill="#241f14">H</text>
       </svg>
       <h5>{{ metadata.title }}</h5>
-      <p>Hobbybiavl på en skovejendom ved Kjellerup — og en hjemmeside om det, bierne kan lære os om naturen.</p>
+      <p>Hobbybiavl på en skovejendom ved Hinge — og en hjemmeside om det, bierne kan lære os om naturen.</p>
     </div>
     <div id="kontakt">
       <span class="label">Kontakt</span>
@@ -530,7 +530,7 @@ layout: layouts/base.njk
     <div>
       <div class="hero-kicker reveal in">
         <span class="rule"></span>
-        <span class="label">Hobbybiavl · Kjellerup · siden {{ metadata.since }}</span>
+        <span class="label">Hobbybiavl · Hinge · siden {{ metadata.since }}</span>
       </div>
       <h1 class="reveal in">
         <span class="thin">Bierne &amp;</span><br>
@@ -654,12 +654,12 @@ Create `content/om.md`:
 layout: layouts/side.njk
 title: Om Henriks Honning
 kicker: Historien bag bigården
-description: Om Henrik og den lille bigård på en skovejendom ved Kjellerup.
+description: Om Henrik og den lille bigård på en skovejendom ved Hinge.
 permalink: /om/
 ---
 
 For omkring ti år siden startede jeg som aldeles nybegynder inden for biavl. I dag
-passer jeg nogle bifamilier på en skovejendom ved Kjellerup — som en hobby, der er
+passer jeg nogle bifamilier på en skovejendom ved Hinge — som en hobby, der er
 vokset sig til en fascination af biernes liv og deres rolle i naturen.
 
 Denne side samler mine artikler om honningbier, biavl og biodiversitet. Jeg skriver
