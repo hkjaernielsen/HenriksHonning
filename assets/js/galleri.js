@@ -19,6 +19,7 @@
 
   links.forEach((a, i) => {
     a.addEventListener("click", (e) => {
+      if (e.button !== 0 || e.ctrlKey || e.metaKey || e.shiftKey || e.altKey) return;
       e.preventDefault();
       vis(i);
       dialog.showModal();
