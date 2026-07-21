@@ -2,3 +2,4 @@ _site/
 _raw/
 node_modules/
 .superpowers/
+.claude/
