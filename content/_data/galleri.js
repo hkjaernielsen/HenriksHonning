@@ -42,7 +42,7 @@ export default [
       },
       {
         fil: "haven-maj", format: "bred", span: 6,
-        tekst: "Haven i maj: rhododendron og de første slåede stier.",
+        tekst: "Haven i maj — rhododendron og de første slåede stier.",
         alt: "Frodig have med rød og lilla rhododendron og en nyslået sti gennem højt græs",
       },
       {
