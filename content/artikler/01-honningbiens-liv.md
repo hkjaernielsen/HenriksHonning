@@ -11,7 +11,7 @@ kilder:
   - "Skoven i Skolen: 'Bier – mest honningbier' (leksikon)"
 ---
 
-Når man løfter låget af et bistade en varm sommerdag, ser man ved første øjekast et mylder af enkeltbier. Men det er en misforståelse. En bifamilie fungerer snarere som ét sammenhængende væsen – en **superorganisme** – hvor den enkelte bi aldrig kan klare sig alene. Varmen, forsvaret, yngelplejen og fødesøgningen er opgaver, som løses af helheden. Ingen bi bestemmer, og alligevel opfører familien sig, som var den styret af én vilje.
+Når man løfter låget af et bistade en varm sommerdag, ser man ved første øjekast et mylder af enkeltbier. Men det er ikke hele billedet. En bifamilie fungerer på mange måder som ét sammenhængende væsen – en **superorganisme** – hvor den enkelte bi aldrig kan klare sig alene. Varmereguleringen, forsvaret, yngelplejen og fødesøgningen er opgaver, som løses af helheden. Ingen enkel bi bestemmer, og alligevel opfører familien sig, som var den styret af én vilje.
 
 ## Tre slags bier
 
@@ -19,7 +19,7 @@ I familien findes tre typer individer, hver med sin klart afgrænsede rolle.
 
 **Dronningen** er den eneste kønsmodne hun, og der er kun én i hver familie. Hun er lang og slank og lever i flere år. Hendes opgave er at lægge æg – og det gør hun i et tempo, der er svært at fatte. I højsæsonen kan hun lægge omkring 2.000 æg i døgnet, hvilket samlet vejer mere end hende selv. Hun udskiller samtidig duftstoffer, feromoner, der binder familien sammen og fortæller de andre bier, at alt er, som det skal være.
 
-**Arbejderne** er sterile hunner, og de udgør langt størstedelen af familien. Om sommeren kan en stærk familie tælle op mod 50.000-60.000 bier. Det er arbejderne, der bygger tavler, passer yngel, holder rent, forsvarer stadet og henter nektar og pollen. Alt det praktiske arbejde hviler på dem.
+**Arbejderne** er sterile hunner, og de udgør langt størstedelen af familien. Om sommeren kan en stærk familie tælle op mod 40.000-50.000 bier. Det er arbejderne, der bygger tavler, passer yngel, holder rent, forsvarer stadet og henter nektar og pollen. Alt det praktiske arbejde hviler på dem.
 
 **Dronerne** er hannerne. De er større og buttede, har ingen brod og kan hverken samle føde eller passe yngel. Deres eneste opgave er at parre sig med unge dronninger fra andre familier. Om efteråret, når nektaren svinder, bliver dronerne skubbet ud af stadet af arbejderne og dør – familien har ikke råd til at fodre nyttesløse munde gennem vinteren.
 
@@ -41,6 +41,6 @@ Helt anderledes er det med de bier, der klækkes sidst på sæsonen. De såkaldt
 
 ## Årets rytme
 
-Bifamiliens liv følger årstiderne tæt. Om vinteren samler bierne sig i en tæt **klynge** omkring dronningen. De ryster med flyvemusklerne og skaber varme, mens de langsomt fortærer det honning- og sukkerforråd, de har fået med. Så snart lyset og de første blomster vender tilbage i det tidlige forår, begynder dronningen igen at lægge æg, og familien vokser eksplosivt hen mod sommerens højsæson.
+Bifamiliens liv følger årstiderne tæt. Om vinteren samler bierne sig i en tæt **klynge** omkring dronningen. De vibrerer flyvemusklerne og skaber varme, mens de langsomt fortærer det honning- og sukkerforråd, de har fået med. Så snart lyset og de første blomster vender tilbage i det tidlige forår, begynder dronningen igen at lægge æg, og familien vokser eksplosivt hen mod sommerens højsæson.
 
 Netop denne rytme – klynge, vækst, høst og igen klynge – er det, biavleren følger og forsøger at spille sammen med gennem hele året. Men det er en anden historie.
