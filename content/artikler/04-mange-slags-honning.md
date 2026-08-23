@@ -28,7 +28,7 @@ I Danmark taler man ofte om honningen efter, hvornår og hvor den er samlet.
 
 ## Hvorfor bliver honning fast?
 
-Mange tror, at flydende honning er "frisk", og fast honning er gammelt eller forfalsket. Det er en misforståelse. Næsten al dansk honning bliver fast før eller siden – det er en helt naturlig proces, der hedder krystallisering.
+Mange tror, at flydende honning er "frisk", og fast honning er gammelt eller forfalsket. Sådan forholder det sig ikke. Næsten al dansk honning bliver fast før eller siden – det er en helt naturlig proces, der hedder krystallisering.
 
 Honning består først og fremmest af to sukkerarter: **glukose** (druesukker) og **fruktose** (frugtsukker). Det er glukosen, der krystalliserer. Når honningen er overmættet med glukose, begynder sukkeret at danne små krystaller, som lægger sig i et netværk gennem glasset, mens fruktose og vand fylder mellemrummene ud. Resultatet er, at den flydende honning langsomt bliver fast.
 
@@ -38,7 +38,7 @@ Hvor hurtigt det sker, afhænger af blomsterne. Honning med højt indhold af glu
 
 Vil man have honningen blød og cremet frem for hård og grynet, kan biavleren røre den under krystalliseringen. Ved at røre jævnt får man små krystaller i stedet for store, og honningen bliver en ensartet, smørbar creme i stedet for en hård klump. Det er ren håndværk – der tilsættes intet.
 
-Nogle sætter pris på den flydende honning og vil gerne beholde den sådan. Et lille trick, jeg selv har brugt, er at lægge sommerhonningen på frost lige efter slyngning. Frosten sætter krystalliseringen på pause, og når honningen tøs op igen, er den flydende og med smagen i behold i nogle uger, før den så småt begynder at sætte sig igen. Det er lidt af et snydeknib – men det virker.
+Nogle sætter pris på den flydende honning og vil gerne beholde den sådan. Et lille trick, jeg selv har brugt, er at lægge sommerhonningen på frost lige efter slyngning. Frosten sætter krystalliseringen på pause, og når honningen tøs op igen, er den flydende og med smagen i behold i nogle uger, før den så småt begynder at sætte sig igen. Det er en lille smule snyd – men det virker.
 
 Vil man have honningen i sin allermest oprindelige form, kan man spise **tavlehonning**: et stykke af biernes egen vokstavle med forseglet honning, præcis som bierne har lavet den. Så kommer man ikke tættere på blomsten.
 
