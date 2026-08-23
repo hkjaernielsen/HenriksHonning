@@ -25,7 +25,7 @@ Allerede undervejs går forvandlingen i gang. Bien tilsætter enzymer til nektar
 
 Når trækbien kommer hjem, flyver den ikke selv hen og fylder nektaren i en celle. I stedet gylper den indholdet af honningmaven op og afleverer det til en yngre **modtagebi** inde i stadet. Denne bi bearbejder nektaren videre – tilsætter flere enzymer og lader den passere frem og tilbage – før den til sidst placeres i en tavlecelle.
 
-Herfra begynder det store arbejde: at få vandet ud.
+Herfra begynder det store arbejde: at få vandmængden i nektaren reduceret.
 
 ## Inddampningen
 
@@ -39,7 +39,7 @@ Når honningen i en celle er tilstrækkelig inddampet og moden, lukker bierne ce
 
 ## Slyngning og tapning
 
-Nu træder biavleren til. De forseglede tavler tages fra, og vokslågene skæres eller ridses af med en gaffel eller kniv – det kaldes at **afdække**. Derefter sættes tavlerne i en **honningslynge**, en slags centrifuge, der får honningen til at flyde ud af cellerne ved hjælp af den roterende bevægelse, uden at selve tavlen ødelægges. Den kan bierne genbruge.
+Nu træder biavleren til. De forseglede tavler tages fra, og vokslågene skæres eller ridses af med en gaffel eller kniv – det kaldes at **skrælle**. Derefter sættes tavlerne i en **honningslynge**, en slags centrifuge, der får honningen til at flyde ud af cellerne ved hjælp af den roterende bevægelse, uden at selve tavlen ødelægges. Den kan bierne genbruge.
 
 Den slyngede honning sies for vokspartikler og får lov at stå, så luftbobler stiger til tops. Til sidst **tappes** den på glas – enten flydende eller rørt til en blød creme. Og dermed er rejsen slut: fra en dråbe tynd nektar i en blomst, gennem tusindvis af biers arbejde, til den gyldne honning i glasset på køkkenbordet.
 
