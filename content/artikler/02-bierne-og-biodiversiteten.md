@@ -28,15 +28,15 @@ Biernes vigtigste bidrag til naturen og til os er bestøvningen. Når en bi flyv
 
 Betydningen er stor. Ifølge FN's fødevare- og landbrugsorganisation FAO er omkring tre fjerdedele af verdens vigtigste fødevareafgrøder i et eller andet omfang afhængige af dyrebestøvning. Æbler, jordbær, raps, hindbær, mandler og en lang række andre afgrøder giver et større og bedre udbytte, når bier og andre insekter besøger dem. Bestøvning er altså ikke bare hyggelig natur – det er en forudsætning for en stor del af vores mad.
 
-## Et landskab blevet fattigt på blomster
+## Et landskab, som er blevet fattigt på blomster
 
-Problemet er, at der er blevet færre blomster at flyve på. Det åbne land er gennem årtier blevet optimeret til effektiv landbrugsproduktion. Marker dyrkes helt ud til kanten, grøftekanter og markskel er skrumpet, og de blomstrende overdrev, enge og brakarealer, der før summede af liv, er mange steder forsvundet.
+Udviklingen gennem mange år har dog været, at naturområderne er blevet stadig færre. Derfor er der blevet færre blomster at flyve på. Det åbne land er gennem årtier blevet optimeret til effektiv landbrugsproduktion. Marker dyrkes helt ud til kanten, grøftekanter og markskel er skrumpet, og de blomstrende overdrev, enge og brakarealer, der før summede af liv, er mange steder forsvundet.
 
 For bierne betyder det færre fødekilder og færre steder at bygge rede. Mere end halvdelen af de danske vilde biarter er i tilbagegang, og for de specialiserede arter, der er afhængige af bestemte planter og levesteder, er situationen særlig alvorlig. Tabet af blomster og levesteder – ikke honningbien – er den grundlæggende årsag.
 
 ## Konkurrerer honningbier og vilde bier?
 
-Her møder man en debat, som det er værd at være ærlig om. Honningbier og vilde bier søger til dels de samme blomster, og en enkelt bifamilie kan tælle mange tusinde individer. Derfor er der rejst spørgsmål om, hvorvidt et stort antal honningbier kan udkonkurrere de vilde bier om føden, særligt i områder, hvor blomsterne i forvejen er få.
+I Danmark foregår i disse år en til tider uskøn debat. Udgangspunktet er, at honningbier og vilde bier til dels søger de samme blomster, og en enkelt familie af honningbier kan tælle mange tusinde individer. Derfor er der rejst spørgsmål om, hvorvidt et stort antal honningbier kan udkonkurrere de vilde bier om føden, særligt i områder, hvor blomsterne i forvejen er få.
 
 Forskningen peger på, at konkurrence *kan* forekomme – navnlig hvor der står mange stader tæt i naturområder med sparsom blomstring. Men billedet er langtfra entydigt, og effekten afhænger stærkt af, hvor mange blomster der er til rådighed. I et blomsterrigt landskab er der rigeligt til alle. Det ville derfor være en forsimpling at gøre biavlerens honningbier til hovedskurken i de vilde biers tilbagegang.
 
