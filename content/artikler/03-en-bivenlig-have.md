@@ -10,7 +10,7 @@ kilder:
   - "Naturhistorisk Museum Aarhus: 'Vilde bier & biplanter'"
 ---
 
-Man skal ikke have stader og slør for at gøre en forskel for bierne. En have kan være et af de bedste steder overhovedet at hjælpe både honningbier og vilde bier, for netop haver kan tilbyde noget, det moderne landskab ofte mangler: blomster hele sæsonen igennem. En honningbi flyver gerne to-tre kilometer for at finde føde, så selv en lille have bidrager til et stort område.
+Man behøver ikke at opstille bistader eller at iføre sig slør for at gøre en forskel for bierne. En have kan være et af de bedste steder overhovedet at hjælpe både honningbier og vilde bier, for netop haver kan tilbyde noget, det moderne landskab ofte mangler: blomster hele sæsonen igennem. En honningbi flyver gerne to-tre kilometer for at finde føde, så selv en lille have bidrager til et stort område.
 
 Hemmeligheden er ikke én bestemt vidunderplante, men **spredning over tid**. Bierne har brug for nektar og pollen fra de første milde dage i februar-marts til de sidste blomster i oktober. Planlægger man haven med det for øje, er der næsten altid noget at flyve på.
 
@@ -44,4 +44,4 @@ Ud over selve planterne kan man gøre haven mere bivenlig med nogle enkle greb:
 
 Det er værd at huske, at det ikke behøver være stort. Selv en altankasse med krokusløg og lidt timian gør en forskel, og jo flere haver, altaner og grøftekanter der summer, jo tættere bliver det net af fødesteder, bierne kan bevæge sig imellem. Mange små blomsterpletter tilsammen kan noget, som ingen enkelt have kan alene.
 
-En bivenlig have er ikke et projekt, der skal være færdigt til sommer. Det er en måde at tænke haven på – hvor der altid er en blomst på vej, og hvor summen af små beslutninger bliver til et sted, der brummer af liv fra februar til oktober.
+En bivenlig have er ikke et projekt, som overståes på en sommer. Det er en måde at tænke haven på – hvor der altid er en blomst på vej, og hvor summen af små beslutninger bliver til et sted, der brummer af liv fra februar til oktober.
