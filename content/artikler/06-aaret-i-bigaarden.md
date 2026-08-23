@@ -16,7 +16,7 @@ Biavl er ikke en aktivitet, man kan lægge fra sig og tage op, som det passer. B
 
 Når de første milde dage melder sig, løsner vinterklyngen sig, og dronningen begynder igen at lægge æg for alvor. Det er nu, biavleren for første gang siden efteråret åbner staderne og ser efter, hvordan familierne er kommet gennem vinteren.
 
-Ved forårseftersynet tjekker man de vigtigste ting: Er dronningen der, og lægger hun æg? Er der foder nok til at bygge bro, indtil de første blomster giver træk? Er familien sund og stærk? Svage familier kan hjælpes, og døde stader gøres rene. Det er et roligt, men vigtigt eftersyn, der lægger grunden for hele sæsonen.
+Ved forårseftersynet tjekker man de vigtigste ting: Er dronningen der, og lægger hun æg? Er der foder nok til at holde bifamilien kørende, indtil de første blomster giver træk? Er familien sund og stærk? Svage familier kan hjælpes, og døde stader gøres rene. Det er et roligt, men vigtigt eftersyn, der lægger grunden for hele sæsonen.
 
 ## Maj – Juni: Sværmtid og forårstræk
 
@@ -36,7 +36,7 @@ Men når honningen er taget fra, venter en af årets vigtigste opgaver: bekæmpe
 
 Efterhånden som nektaren svinder, gør biavleren familierne klar til den lange kolde tid. Da honningen er taget fra, skal bierne have foder at overvintre på, og derfor **fodres de ind** – typisk med en sukkeropløsning, som bierne lagrer i tavlerne som vinterforråd. Samtidig skubbes dronerne ud, og familien trækker sig sammen.
 
-Når kulden for alvor sætter ind, samler bierne sig i en tæt **vinterklynge** omkring dronningen. De ryster med musklerne og holder varmen i klyngens midte, mens de langsomt tærer på forrådet. Nu handler alt om ro: tætte stader, læ mod vinden, sikring mod mus, og at biavleren *ikke* forstyrrer. Der er ikke meget at lave i disse måneder ud over at holde øje udefra og lade bierne passe sig selv.
+Når kulden for alvor sætter ind, samler bierne sig i en tæt **vinterklynge** omkring dronningen. De vibrerer musklerne og holder varmen i klyngens midte, mens de langsomt tærer på forrådet. Nu handler alt om ro: tætte stader, læ mod vinden, sikring mod mus, og at biavleren *ikke* forstyrrer. Der er ikke meget at lave i disse måneder ud over at holde øje udefra og lade bierne passe sig selv.
 
 ## Hjulet drejer videre
 
